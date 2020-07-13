@@ -4,7 +4,7 @@
 #
 Name     : R-robumeta
 Version  : 2.0
-Release  : 5
+Release  : 6
 URL      : https://cran.r-project.org/src/contrib/robumeta_2.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/robumeta_2.0.tar.gz
 Summary  : Robust Variance Meta-Regression
